@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/baglady/beegskewl-courses/main/git/images/merge.jpg)
+
 ## git merge — combining branches
 
 `git merge` takes the commits from one branch and integrates them into another. Run it from the branch you want to receive the changes.
