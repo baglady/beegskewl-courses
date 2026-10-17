@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/baglady/beegskewl-courses/main/git/images/delete-branches.jpg)
+
 ## Deleting old branches and cleaning up
 
 Delete a feature or fix branch as soon as it is merged. Stale branches confuse everyone.
