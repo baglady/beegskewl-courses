@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/baglady/beegskewl-courses/main/git/images/pull.jpg)
+
 ## git pull — getting changes from a remote
 
 `git pull` is a shortcut for two commands run back to back:
