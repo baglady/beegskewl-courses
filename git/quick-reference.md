@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/baglady/beegskewl-courses/main/git/images/quick-reference.jpg)
+
 ## Common workflows and quick reference
 
 **Standard feature branch workflow:**
