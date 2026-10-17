@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/baglady/beegskewl-courses/main/git/images/push.jpg)
+
 ## git push — sending your work to a remote
 
 `git push` uploads commits from your local branch to a remote (GitHub, GitLab, etc.). The remote is usually named `origin`.
